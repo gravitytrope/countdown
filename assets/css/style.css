@@ -19,8 +19,9 @@ body {
 }
 
 /* eliza - link colour*/
-a:link, a:active, a:visited {color: #029393;}
-a:hover {color: #029393; background-color: #000;}
+h3.background-highlight
+a:link, h3.background-highlight a:active, h3.background-highlight a:visited {color: #029393;}
+h3.background-highlight a:hover {color: #029393; background-color: #000;}
 
 h1 {
 	text-transform:uppercase;
