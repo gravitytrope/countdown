@@ -2,7 +2,11 @@
 .hasCountdown {
 	border: 0px solid #ccc;
 	background-color: #029393;
-	height: 25px;
+	height: 60px;
+    	padding: 1%;
+    	color: #fff;
+	
+	/* ELIZA - edit here for countdown bar colours */
 }
 .countdown_rtl {
 	direction: rtl;
