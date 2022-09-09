@@ -4,7 +4,7 @@ logo: logo.png #Required. logo for the event. replace this logo in the project o
 description: "Hacktoberfest is fast approaching and Women Who Code Python wants to help it’s members contribute this year!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
 externalLink: "https://womenwhocode.github.io/hacktoberfest22/" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
 url: "https://womenwhocode.github.io/hacktoberfest22/" #(Optional) the full URL for this countdown page. This is neccesary for facebook share previews
-facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
+facebookEventLink: http://www.womenwhocode.com/python/events #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
 hashtag: "" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
 colors: #(Optional)
   background: "#faf8f2" #color of the background of the page
