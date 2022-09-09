@@ -1,9 +1,8 @@
 /* jQuery Countdown styles 1.6.2. */
 .hasCountdown {
 	border: 0px solid #ccc;
-	/*background-color: #029393;  */
-	background-color: #000; 
-	height: 55px;
+	background-color: #029393; 
+	height: 60px;
     	padding: 1%;
     	color: #fff;
 	
