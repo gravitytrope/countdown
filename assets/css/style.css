@@ -7,18 +7,15 @@ body {
   font-family: {{site.fontfamily}};
 }
 #defaultCountdown {
- /* color:{{site.colors.secondary}}; */
-  
-	font-color: #fff;
-	font-size:2em;
+  color:{{site.colors.secondary}}; 
+	font-size:3em;
 	background-color: #029393;
 	
-	/* edit colours for countdown bar */
+	/* edit colours for countdown bar background */
 }
 .hasCountdown {
 	background:none;
 	border:none;
-	height: 40px;
 }
 
 h1 {
