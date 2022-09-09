@@ -9,15 +9,16 @@ body {
 #defaultCountdown {
  /* color:{{site.colors.secondary}}; */
   
+	font-color: #fff;
 	font-size:2em;
 	background-color: #029393;
-	height: 40px;
 	
 	/* edit colours for countdown bar */
 }
 .hasCountdown {
 	background:none;
 	border:none;
+	height: 40px;
 }
 
 h1 {
