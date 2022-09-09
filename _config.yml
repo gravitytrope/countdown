@@ -1,5 +1,5 @@
 utc: "2022-10-01 0:00:00 -0500" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
-name: "Women Who Code Hacktoberfest 2022" #Required. The human-readable name of the event
+name: "Hacktoberfest 2022 at Women Who Code" #Required. The human-readable name of the event
 logo: logo.png #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
 description: "Hacktoberfest is fast approaching and Women Who Code Python wants to help it’s members contribute this year!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
 externalLink: "https://womenwhocode.github.io/hacktoberfest22/" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
@@ -7,7 +7,7 @@ url: "https://womenwhocode.github.io/hacktoberfest22/" #(Optional) the full URL 
 facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
 hashtag: "" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
 colors: #(Optional)
-  background: "#FFF" #color of the background of the page
+  background: "#faf8f2" #color of the background of the page
   primary: "#3FBFBC" #primary color for the page
   secondary: "#EE4823" #secondary color for the page
   textcolor: "#FFF" #color of the text, which is overlayed on the primary color
