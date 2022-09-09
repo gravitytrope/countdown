@@ -8,10 +8,10 @@ body {
 }
 #defaultCountdown {
  /* color:{{site.colors.secondary}}; */
-  color: #FFF;
+  
 	font-size:2em;
 	background-color: #029393;
-	padding: 10px;
+	height: 40px;
 	
 	/* edit colours for countdown bar */
 }
