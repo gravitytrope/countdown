@@ -11,12 +11,16 @@ body {
 	font-size:3em;
 	background-color: #029393;
 	
-	/* edit colours for countdown bar background */
+	/* eliza-edit colours for countdown bar background */
 }
 .hasCountdown {
 	background:none;
 	border:none;
 }
+
+/* eliza - link colour*/
+a:link, a:active, a:visited {color: #029393;}
+a:hover {color: #029393; background-color: #000;}
 
 h1 {
 	text-transform:uppercase;
