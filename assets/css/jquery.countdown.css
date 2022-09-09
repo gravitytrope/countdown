@@ -2,7 +2,7 @@
 .hasCountdown {
 	border: 0px solid #ccc;
 	background-color: #029393;
-	height: 60px;
+	height: 55px;
     	padding: 1%;
     	color: #fff;
 	
@@ -17,8 +17,8 @@
 .countdown_row {
 	clear: both;
 	width: 100%;
-	height: 60px;
-	/*padding: 0px 2px 2px 2px;*/
+	/* height: 60px; */
+	padding: 0px 2px 2px 2px;
 	text-align: center;
 }
 .countdown_show1 .countdown_section {
