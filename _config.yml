@@ -1,6 +1,6 @@
 utc: "2022-10-01 0:00:00 -0500" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
 name: "Hacktoberfest 2022 at Women Who Code" #Required. The human-readable name of the event
-logo: logo.png #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
+logo: logo1.png #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
 description: "Hacktoberfest is fast approaching and Women Who Code Python wants to help it’s members contribute this year!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
 externalLink: "https://womenwhocode.github.io/hacktoberfest22/" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
 url: "https://womenwhocode.github.io/hacktoberfest22/" #(Optional) the full URL for this countdown page. This is neccesary for facebook share previews
